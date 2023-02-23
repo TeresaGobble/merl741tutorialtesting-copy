@@ -1,0 +1,23 @@
+# dependencies
+vendor
+node_modules
+
+# text editor
+.vscode
+.idea
+
+# e2e tests
+artifacts
+
+# unit tests
+.phpunit.result.cache
+
+# filesystem
+.DS_Store
+
+# environment
+.env
+
+# docker
+.docker/plugins/
+!.docker/plugins/test-cpt
